@@ -12,6 +12,8 @@ https://github.com/SergioFerrerasRuiz/HadoopYarnHive
 ```
 Una vez se hallan completados los pasos, podremos seguir con esta practica.
 
+![Foto de proyecto](assets/1.png)
+
 ## 1. Instalacion de PowerBI
 Ahora deberemos instalar Power Bi Desktop desde la microsoft store y seguir los siguientes pasos para su configuración
 
