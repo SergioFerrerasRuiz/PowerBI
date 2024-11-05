@@ -36,9 +36,11 @@ En nombre de ususario y contraseña deberemos poner "root"
 ![Foto de proyecto](assets/7.png)
 ### 5. Visualizacion
 Ya podremos ver la tabla en Power BI con nuestros datos cargados desde la base de datos de hive
-
+![Foto de proyecto](assets/8.png)
+![Foto de proyecto](assets/9.png)
+![Foto de proyecto](assets/10.png)
 ### 6. Valoracion de Datos
 En la derecha en datos desplegamos la tabla donde observamos un gráfico con los datos de nuestra nuestra tabla.
-
+![Foto de proyecto](assets/11.png)
 
    
